@@ -1,0 +1,3 @@
+Implemented the Multi Layer Perceptron model and CNN model.
+Comparision of the paremeters is done between the model.
+Evaluation is done and found that CNN is efficient enough to train on really few parameters. As compared to the MLP.
